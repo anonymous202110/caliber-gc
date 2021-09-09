@@ -13,5 +13,5 @@ To manage and deploy distributed key-value store of {Caliber-GC}, [DKVF](https:/
   5. Export the server as a Runnable Jar and the client as a JAR.
   6. Similar to the server, create a new java project with cluster-manager source and add the libraries from its lib.
   7. Run the cluster-manager's main class and export the ClusterManager project as a Runnable Jar.
-  8. Now follow the remaining steps as per the DKVF framework - Create a cluster and an experiment using cluster designer in https://github.com/roohitavaf/DKVF.
+  8. Now follow the remaining steps as per the DKVF framework - Create a cluster and an experiment using cluster designer in [DKVF](https://github.com/roohitavaf/DKVF).
   9. Once a cluster and an experiment have been created, use the new ClusterManager jar with the old DKVF manager commands to run the experiments.
